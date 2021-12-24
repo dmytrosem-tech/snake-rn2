@@ -1,0 +1,33 @@
+{
+  "name": "snake-rn2",
+  "version": "1.0.0",
+  "description": "snake-test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmytrosem-tech/snake-rn2.git"
+  },
+  "keywords": [
+    "snake",
+    "react",
+    "node"
+  ],
+  "author": "Dmytro Semeruk <dmytro.sem.tech@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmytrosem-tech/snake-rn2/issues"
+  },
+  "homepage": "https://github.com/dmytrosem-tech/snake-rn2#readme",
+  "dependencies": {
+    "concurrently": "^6.5.1",
+    "express": "^4.17.2",
+    "pg": "^8.7.1"
+  },
+  "devDependencies": {
+    "concurrency": "^0.1.4",
+    "nodemon": "^2.0.15"
+  }
+}
