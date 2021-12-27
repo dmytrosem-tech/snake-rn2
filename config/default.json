@@ -1,0 +1,6 @@
+{
+  "port": 3000,
+  "jwtSecret": "secretCode",
+  "mongoUri": "mongodb+srv://ddd2:230586102280ddd2@snake.qgknj.mongodb.net/SnakeTest?retryWrites=true&w=majority"
+
+}
